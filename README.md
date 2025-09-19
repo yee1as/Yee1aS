@@ -11,7 +11,7 @@ Frontend Developer
 I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇰🇿.
 * 🧑‍🎓 I'm student of IITU (International Information Technology University) 2021-2025
 * 🌍  I'm based in Kazakhstan, Almaty
-* ✉️  You can contact me at [yee1as-kz@yandex.kz](mailto:yee1as1337@gmail.com)
+* ✉️  You can contact me at [yee1as1337@gmail.com](mailto:yee1as1337@gmail.com)
 * 🤝  I'm open to collaborating on projects
 * ⚡  In my free time, I enjoy practicing calisthenics to stay active and healthy!. I'm Kazakh and yes, I like to eat horse meat)
 
