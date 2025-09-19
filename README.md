@@ -24,7 +24,6 @@ I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="36" height="36"/></a>
 <a href="https://sass-lang.com/documentation/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="36" height="36"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="36" height="36"/></a>
-<a href="https://filezilla-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" title="FileZilla" alt="FileZilla" width="36" height="36"/></a>
 </p>
 
 
